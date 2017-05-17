@@ -227,8 +227,8 @@ input:active, input:focus {
 
 /* LOADER */
 
-.no-js #loader { display: none;  }
-.js #loader { display: block; position: absolute; left: 100px; top: 0; }
+
+
 .se-pre-con {
 	position: fixed;
 	left: 0px;
